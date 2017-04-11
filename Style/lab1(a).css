@@ -1,0 +1,47 @@
+body{
+	position: relative;
+	margin: 0;
+}
+.vertical {
+	display:inline-block;
+	float:right;
+	min-height:500px;
+	min-width:85%;
+}
+.container {
+	margin-top:0;
+	position:relative;
+	overflow: hidden;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 90%;
+    border-right: 1px solid black;
+}
+.header{
+	min-width:100%;
+	min-height:100px;
+	background:blue;
+}
+.left{
+	display:inline-block;
+	min-width:15%;
+	min-height:700px;
+	background:yellow;
+}
+.right{
+	display:inline-block;
+	min-width:15%;
+    max-width: 20%;
+	min-height:600px;
+	background:yellow;
+	float:right;
+}
+.bottom{
+	min-width:100%;
+	min-height:100px;
+	background:blue;
+	bottom: 0;
+}
+.main{
+	min-height:500px;
+}

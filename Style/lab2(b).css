@@ -1,0 +1,39 @@
+
+.head{
+	width: 90%;
+	height: 100px;
+	background-color: blue;
+	border: 2px solid #796E6E;
+	margin-left: 5%;
+}
+.lef{
+	
+	width: 8%;
+	height: 550px;
+	background-color: yellow;
+	border: 2px solid #796E6E;
+	margin-left: 5%;
+}
+
+.bot{
+	width: 90%;
+	height: 100px;
+	background-color: blue;
+	margin-top: -103px;
+	border: 2px solid #796E6E;
+	margin-left: 5%;
+}
+.head1{
+	width: 82%;
+    margin-left: 13%;
+	height: 100px;
+	margin-top: -555px;
+	background-color: yellow;
+	border: 2px solid #796E6E;
+}
+.center{
+	height: 345px;
+	width: 82%;
+	margin-left: 13%;
+	border: 2px solid #796E6E;
+}

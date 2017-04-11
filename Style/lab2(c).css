@@ -1,0 +1,85 @@
+.head{
+	width: auto;
+	height: 100px;
+	background-color: blue;
+	border: 2px solid #796E6E;
+}
+.head:hover{
+	background-color: yellow;
+}
+.lef{
+	width: 22%;
+	height: 550px;
+	background-color: yellow;
+	border: 2px solid #796E6E;
+}
+.lef:hover{
+	background-color: blue;
+}
+
+.bot{
+	width: auto;
+	height: 100px;
+	background-color: blue;
+	margin-top: -103px;
+	border: 2px solid #796E6E;
+}
+.bot:hover{
+	background-color: white;
+}
+.lef2{
+	margin-top: -41.6%;
+	margin-left: 77.7%;
+	width: 22%;
+	height: 449px;
+	background-color: yellow;
+	border: 2px solid #796E6E;
+}
+.lef2:hover{
+	background-color: blue;
+}
+.center{
+	margin-top: -34%;
+	margin-left: 22%;
+	width: 55.5%;
+	height: 449px;
+	border: 2px solid #796E6E;
+}
+p{
+	text-indent: 25px;
+	text-align: justify;
+}
+.zahol{
+	font-size: 40px;
+	color: red;
+}
+/* Виділення */
+p.yellow::-moz-selection{
+	background: yellow;
+}
+p.blue::-moz-selection{
+	background: blue;
+}
+h1{
+	text-indent: 25px;
+	text-align: center;
+}
+h1:hover{
+	color: blue;
+}
+.first:hover{
+	color: green;
+	font-size: 20px;
+}
+.two:hover{
+	color: red;
+	font-size: 20px;
+}
+.three:hover{
+	color: yellow;
+	font-size: 20px;
+}
+.four:hover{
+	color: #A0A0F0;
+	font-size: 20px;
+}

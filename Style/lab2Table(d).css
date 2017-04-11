@@ -1,0 +1,15 @@
+table{
+	border-collapse: collapse;
+}
+#head{
+	background-color: blue;
+}
+#right{
+	background-color: yellow;
+}
+#left{
+	background-color: yellow;
+}
+#bot{
+	background-color: blue;
+}

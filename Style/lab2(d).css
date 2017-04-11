@@ -1,0 +1,32 @@
+.head{
+	width: 88.44%;
+	height: 100px;
+	background-color: blue;
+	border: 2px solid #796E6E;
+	margin-left: 6.6%;
+}
+.lef{
+	
+	width: 11.22%;
+	height: 550px;
+	background-color: yellow;
+	border: 2px solid #796E6E;
+	margin-left: 6.6%;
+}
+
+.bot{
+	width: 88.44%;
+	height: 100px;
+	background-color: blue;
+	margin-top: -7.7%;
+	border: 2px solid #796E6E;
+	margin-left: 6.6%;
+}
+.lef2{
+	margin-top: -41.7%;
+	margin-left: 83.8%;
+	width: 11.22%;
+	height: 449px;
+	background-color: yellow;
+	border: 2px solid #796E6E;
+}

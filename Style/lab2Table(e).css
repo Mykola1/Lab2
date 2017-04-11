@@ -1,0 +1,30 @@
+table{
+	border-collapse: collapse;
+}
+.he{
+    width: 20%;
+    margin-left: 10%;
+    height: 50px;
+    border: 1px solid #796E6E;
+    background-color: white;
+}
+.head{
+    background-color: yellow;
+}
+.left{
+    background-color: blue;
+}
+.bot{
+    background-color: yellow;
+}
+.head1{
+    border: 5px solid white;
+    background-color: red;
+}
+.right{
+    border: 5px solid white;
+    background-color: blue;
+}
+.right1{
+    border: 5px solid white;
+}
